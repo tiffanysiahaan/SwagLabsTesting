@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-CO-07 Fill the checkout information form with invalid inputs (all)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c493ecc5-2192-40cd-b54d-b68583114dbd</testCaseGuid>
+</TestCaseEntity>

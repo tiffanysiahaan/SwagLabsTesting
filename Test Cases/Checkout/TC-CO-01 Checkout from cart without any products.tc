@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-CO-01 Checkout from cart without any products</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e562171f-ff5a-4ad5-8147-6b5ce7b8c5ba</testCaseGuid>
+</TestCaseEntity>

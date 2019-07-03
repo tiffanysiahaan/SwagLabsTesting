@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-PL-09 Remove the product to the cart from product list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2f289de-ee5d-466b-bd98-179ee3444705</testCaseGuid>
+</TestCaseEntity>

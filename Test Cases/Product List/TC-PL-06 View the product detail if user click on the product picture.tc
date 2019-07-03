@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-PL-06 View the product detail if user click on the product picture</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb3b9b31-4e8f-4d5a-8f9e-6afa1858bceb</testCaseGuid>
+</TestCaseEntity>

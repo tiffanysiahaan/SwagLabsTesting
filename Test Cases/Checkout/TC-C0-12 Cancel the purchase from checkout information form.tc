@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-C0-12 Cancel the purchase from checkout information form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b8fffb4-82b4-406e-a672-d1cbf202e9fe</testCaseGuid>
+</TestCaseEntity>

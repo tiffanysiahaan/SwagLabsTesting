@@ -1,0 +1,2 @@
+1. Test Case Manual dapat dilihat pada Test Case Amartha.xlsx
+2. Bug Report dapat dilihat pada Bug Report.pdf

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-CO-04 Fill the checkout information form with invalid first name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be5ddcb3-5476-4c99-9c56-64b8deefc4e2</testCaseGuid>
+</TestCaseEntity>

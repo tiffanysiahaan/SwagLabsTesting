@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-CO-06 Fill the checkout information form with invalid zip or postal code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d028c1cf-c49e-44e6-80f5-248dbf5e15d4</testCaseGuid>
+</TestCaseEntity>

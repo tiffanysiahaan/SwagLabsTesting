@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-CO-09 Continue checkout if first name is empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6ed6796-2d79-408b-94f4-1548c82671b3</testCaseGuid>
+</TestCaseEntity>

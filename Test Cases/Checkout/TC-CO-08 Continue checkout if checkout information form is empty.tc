@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-CO-08 Continue checkout if checkout information form is empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f80891a4-5e61-4d7a-ac74-025e2342e9d5</testCaseGuid>
+</TestCaseEntity>

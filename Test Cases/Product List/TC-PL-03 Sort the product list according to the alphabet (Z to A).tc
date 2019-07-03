@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-PL-03 Sort the product list according to the alphabet (Z to A)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0f3de1b-81e4-475f-8ac5-819174174c47</testCaseGuid>
+</TestCaseEntity>
